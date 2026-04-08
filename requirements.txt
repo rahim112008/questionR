@@ -2,5 +2,7 @@ streamlit
 pandas  
 openpyxl 
 xlsxwriter 
-scikit-learn & numpy 
+scikit-learn
+numpy 
 fpdf
+
